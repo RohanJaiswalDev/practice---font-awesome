@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    margin: 0 300px;
+    text-align: center;
+    padding: 20px;
+    background: #f6f6f6;
+}
+
+h2{
+    margin-bottom: 30px;
+}
+
+.profile img{
+    border-radius: 50%;
+}
+
+.about-content{
+    margin: 20px 0;
+}
+
+.github{
+    font-size: 40px;
+}
+
+.instagram{
+    font-size: 40px;
+}
